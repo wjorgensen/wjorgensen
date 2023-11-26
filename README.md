@@ -3,5 +3,9 @@ My name is Adam "Wes" Weston Jorgensen. I'm currently studying Economics and Com
 
 # 🏆 Hackathons
 
-* 1st Place Winner of the 2023 Vechain x EasyA Hackathon @ Harvard with [Movelo](https://github.com/s-alad/movelo). Collaborated with [s-alad](https://github.com/s-alad) and [CJCrafter](https://github.com/CJCrafter)
+## [Movelo](https://github.com/s-alad/movelo)
+1st Place Winner of the 2023 Vechain x EasyA Hackathon @ Harvard. Collaborated with [s-alad](https://github.com/s-alad) and [CJCrafter](https://github.com/CJCrafter)
+
+## [Funny Game](https://github.com/wjorgensen/funny-game)
+Created at BostonHacks 2023 with [@s-alad](https://github.com/s-alad), [@CJCrafter](https://github.com/CJCrafter), and [@Zhandolia](https://github.com/Zhandolia)
 
