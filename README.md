@@ -13,7 +13,7 @@ My name is Adam "Wes" Weston Jorgensen. I'm currently studying Economics and Com
 Honorable mention of UHack hosted by Oxford Blockchain Society. Collaborated with [s-alad](https://github.com/s-alad)
 
 ## [ZK Vote](https://github.com/CJCrafter/election-chain)
-Won the Impact Award at the CivicTech Hackathon @ Boston University. Collaborated with [s-alad](https://github.com/s-alad) and [CJCrafter](https://github.com/CJCrafter)
+Won 1st place of the Impact track at the CivicTech Hackathon @ Boston University. Collaborated with [s-alad](https://github.com/s-alad) and [CJCrafter](https://github.com/CJCrafter)
 
 ## [Funny Game](https://github.com/wjorgensen/funny-game)
 Created at BostonHacks 2023 with [@s-alad](https://github.com/s-alad), [@CJCrafter](https://github.com/CJCrafter), and [@Zhandolia](https://github.com/Zhandolia)
