@@ -15,6 +15,7 @@ Honorable mention of UHack hosted by Oxford Blockchain Society. Collaborated wit
 ## [ZK Vote](https://github.com/CJCrafter/election-chain)
 Won 1st place of the Impact track at the CivicTech Hackathon @ Boston University. Collaborated with [s-alad](https://github.com/s-alad) and [CJCrafter](https://github.com/CJCrafter)
 
-## [Funny Game](https://github.com/wjorgensen/funny-game)
-Created at BostonHacks 2023 with [@s-alad](https://github.com/s-alad), [@CJCrafter](https://github.com/CJCrafter), and [@Zhandolia](https://github.com/Zhandolia)
+## [ZK Girlfriend](https://github.com/0xAndoroid/zkGirlfriend)
+Prove you have a gf at another school with a ZK proof. Made at the [Paradigm](https://github.com/paradigmxyz) Frontiers confrence.
+
 
