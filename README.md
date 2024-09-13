@@ -7,7 +7,7 @@ My name is Adam "Wes" Weston Jorgensen. I'm currently studying Economics and Com
 1st Place Winner of the 2023 Vechain x EasyA Hackathon @ Harvard. Collaborated with [s-alad](https://github.com/s-alad) and [CJCrafter](https://github.com/CJCrafter)
 
 ## [Raized](https://github.com/s-alad/raized)
-1st Place Winner of teh 2024 Stacks x EasyA Hackathon @ Harvard. Collaborated with [s-alad](https://github.com/s-alad)
+1st Place Winner of the 2024 Stacks x EasyA Hackathon @ Harvard. Collaborated with [s-alad](https://github.com/s-alad)
 
 ## [Alexandria](https://github.com/wjorgensen/Alexandria)
 Honorable mention of UHack hosted by Oxford Blockchain Society. Collaborated with [s-alad](https://github.com/s-alad)
